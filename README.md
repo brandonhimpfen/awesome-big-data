@@ -91,6 +91,7 @@
 - [Airbyte](https://airbyte.com/) – Open-source data integration platform.
 - [Fivetran](https://www.fivetran.com/) – Managed ELT pipelines for analytics teams.
 - [OLake](https://github.com/datazip-inc/olake) – Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
+- [NextJSON](https://nextjson.com/) – Free online nested JSON parser and formatter that decodes escaped JSON strings.
 
 ## Workflow Orchestration
 
